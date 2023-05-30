@@ -16,7 +16,7 @@ const Slider = () => {
     {
       id: 1,
       title: "Card 1",
-      imageURL: "https://example.com/card1-image.jpg",
+      imageURL: "../images/nft_illustration (1).png",
       lines: ["Line 1", "Line 2", "Line 3"],
     },
     {
